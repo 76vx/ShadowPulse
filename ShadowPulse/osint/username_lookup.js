@@ -1,0 +1,1 @@
+module.exports=function(u){return {user:u,exists:false}}
